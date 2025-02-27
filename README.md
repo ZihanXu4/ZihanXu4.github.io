@@ -1,8 +1,8 @@
-# Class I Notes & Study Plan
+# Bioinfo Class I Notes & Study Plan
 Zihan Xu  
 2025/2/27  
 School of Life Sciences, Tsinghua University  
-
+Teacher: Lu Zhi
 ---
 
 ## 0. Course Overview
@@ -142,9 +142,8 @@ School of Life Sciences, Tsinghua University
 - **Practical**: use R or Python to build simple classification/regression models    
 - **Mini-Project**  
 
-
-
-By turning these notes into a GitHub Pages site, I can share updates and progress with classmates and instructors.   
+---
+ 
 Please visit my [GitHub Pages](https://ZihanXu4.github.io/) for more information and future updates!  
 
 # ZihanXu4.github.io
